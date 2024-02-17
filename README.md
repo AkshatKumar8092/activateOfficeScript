@@ -1,0 +1,2 @@
+# activateOfficeScript
+just a code
